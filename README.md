@@ -1,4 +1,4 @@
-# Object-Detection_single-object
+# Image Classification - Classify An Entire Imgae Into One Object And Add A Label To It
 
 ## Brief Summary
 *Last updated: 02-08-2020 with TensorFlow*
@@ -23,7 +23,7 @@ To set up TensorFlow to train a object detection model on Windows or Linux requi
 ### 1. Configure Project
 Follow [Anaconda Installation Video](https://www.anaconda.com/distribution/#download-section), which shows the process for installing Anaconda. Visit [TensorFlow's website](https://www.tensorflow.org/api_docs/python/tf/keras), [Keras Website](https://keras.io/api/applications/) for personal studies.
 
-Download the [object_detection_pretrained_cnn.ipynb](https://github.com/ArupDutta/Object-Detection_single-object/blob/master/object_detection_pretrained_cnn.ipynb) file from repository, upload it to your google colab and you are good to go with your Project Configuration.
+Download the [object_detection_pretrained_cnn.ipynb](https://github.com/ArupDutta/Image-Classifications/blob/master/object_detection_pretrained_cnn.ipynb) file from repository, upload it to your google colab and you are good to go with your Project Configuration.
 
 At this point, here is what *object detection* folder should look like:
 
@@ -35,7 +35,7 @@ At this point, here is what *object detection* folder should look like:
 ### 2. Clone Object Detection Repository from GitHub
 Once the object_detection_pretrained_cnn.ipynb file is opened execute the code block step by step carefully.
 
-First code block clone the full [TensorFlow object detection repository](https://github.com/ArupDutta/Object-Detection_single-object) to your current runtime from GitHub.
+First code block clone the full [TensorFlow object detection repository](https://github.com/ArupDutta/Image-Classifications) to your current runtime from GitHub.
 
 <p align="center">
   <img src="Pics/object_detection_dir_2.JPG">
@@ -78,6 +78,6 @@ Happy Learning 👍
 
 ### Connect with me:
 
-<a href="https://www.taublogg.blogspot.com"><img align="left" alt="ArupDutta | TAU" width="22px" src="https://github.com/ArupDutta/ArupDutta/blob/master/www.svg" /></a>
+<a href="https://www.taublogg.com"><img align="left" alt="ArupDutta | TAU" width="22px" src="https://github.com/ArupDutta/ArupDutta/blob/master/www.svg" /></a>
 <a href="https://www.linkedin.com/in/arup-dutta-8a35a2106/"><img align="left" alt="ArupDutta | LinkedIn" width="22px" src="https://github.com/ArupDutta/ArupDutta/blob/master/linkedin.svg" /></a>
 <a href="https://www.instagram.com/arupdut_ta/"><img align="left" alt="ArupDutta | Instagram" width="22px" src="https://github.com/ArupDutta/ArupDutta/blob/master/instagram-sketched.svg" /></a>
